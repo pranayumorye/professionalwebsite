@@ -1,36 +1,41 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Pranay Morye",
+    "email": "",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://pranayumorye.github.io",
+    "summary": "Software Engineer at Google",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "San Bruno",
       "countryCode": "US",
-      "region": ""
+      "region": "CA"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=ivUa4foAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "pranayumorye",
+        "url": "https://github.com/pranayumorye"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Google",
+      "position": "Software Engineer",
+      "website": "https://www.google.com",
+      "startDate": "",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "GitHub University",

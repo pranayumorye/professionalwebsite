@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="https://drive.google.com/file/d/1QORjw8dHDSyDGZfjLhzlToJYoyYrzrlB/view?usp=sharing" class="btn btn--primary" target="_blank" rel="noopener noreferrer">Download CV (Google Drive)</a></p>
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -17,6 +19,9 @@ Education
 
 Work experience
 ======
+* Software Engineer
+  * Google, San Bruno
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
